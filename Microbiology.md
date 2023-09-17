@@ -4,7 +4,7 @@
   <i>Representation of geomicrobiology made by MidJourney</i>
 </p>
 
-Welcome Mia, Susann and Jack to the microbiology projects. You teachers will be me (Sven) and Steffen, with some inputs from Bjarte, and we will likely need some help from the macrobiologists, geophysician and geochemists. Everyone basically...
+Welcome Mia, Susann and Jack to the microbiology projects. You teachers will be me (Sven) and Steffen, with some inputs from Bjarte, and we will likely need some help from the macrobiologists, geophysicians and geochemists. Everyone basically...
 
 ## Preparations
 There is a little bit of work to do before we get to Milos. Mainly some lecture:
