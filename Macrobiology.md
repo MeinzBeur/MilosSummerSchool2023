@@ -9,6 +9,6 @@ This is a cool program that allows for collaboration between users, different ty
 
 ## Preparation
 I need you to make a BIIGLE account ASAP as it sometimes takes a few hours for the BIIGLE team to approve the new user, and closer to the course I will make a project and put on some sample images so you can test out annotating on BIIGLE, although if you wish you could always upload some sample images yourself too.  
-You can make a biigle acount [here](https://biigle.de/)
+You can make a biigle acount [here](https://biigle.de/).
 
 You can read up more on BIIGLE [here](https://www.frontiersin.org/articles/10.3389/fmars.2017.00083/full)  and [here](https://zenodo.org/record/7728927#.ZBSUlHbP1PY).
