@@ -1,6 +1,6 @@
 # Microbiology project
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/bb21488b-38c1-4267-9855-62d0edfea197)
-_Representation of geomicrobiology made by MidJourney_
+<p align="center">_Representation of geomicrobiology made by MidJourney_</p>
 
 Welcome Mia, Susann and Jack to the microbiology projects. You teachers will be me (Sven) and Steffen, with some inputs from Bjarte, and we will likely need some help from the macrobiologists, geophysician and geochemists. Everyone basically...
 
