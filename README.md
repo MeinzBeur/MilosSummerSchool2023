@@ -19,5 +19,10 @@ REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 Here is a provisional time plan:
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/697b8e00-0666-47d1-a002-cb6770de4c99)
 
-
+## Project work
+Go to the following links to get more info:  
+- Microbiology
+- Macrobiology
+- Geophgysics
+- Geochemistry
 
