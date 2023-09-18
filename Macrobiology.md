@@ -1,6 +1,6 @@
 # Macrobiology project
 
-Hi all! 
+Hi all!  
 I'm Heidi and I will be leading the Macrobiology side of things. I am from the USA but have been living in Bergen for the past 5 years. 
 I did my PhD at UiB where I analyzed ROV visual data to describe the communities on an arctic seamount. I am now working at IMR doing image cataloguing for the MAREANO project. 
 
