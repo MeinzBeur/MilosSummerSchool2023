@@ -24,5 +24,5 @@ Go to the following links to get more info:
 - [Microbiology](Microbiology.md)
 - [Macrobiology](Macrobiology.md)
 - Geophysics
-- Geochemistry
+- [Geochemistry](Geochemistry.md)
 
