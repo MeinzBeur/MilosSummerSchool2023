@@ -16,7 +16,7 @@
 4. Environmental impacts and risks of shallow-water mining, compared to deep-sea mining.
 
 ## Preparation
-Here is some litterature that yo ushould read through before starting the cruise. A file with pdfs can be found [here](https://wetransfer.com/downloads/732b4996596350707349233f6f7aa1d120230917120326/e961c16e1948745f70fb020d98d101f520230917120348/4ef501?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid).
+Here is some litterature that you should read through before starting the cruise. A file with pdfs can be found [here](https://wetransfer.com/downloads/732b4996596350707349233f6f7aa1d120230917120326/e961c16e1948745f70fb020d98d101f520230917120348/4ef501?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid).
 
 - Beaulieu, S. E., T. E., Graedel, and M. D., Hannington (2017), Should we mine the deep seafloor? Earth’s Future, 5, 655–658, doi:10.1002/2017EF000605.
 - Callac, N., Posth, N.R., Rattray, J.E., Yamoah, K.K., Wiech, A., Ivarsson, M., Hemmingsson, C., Kilias, S.P., Argyraki, A., Broman, C. and Skogby, H., 2017. Modes of carbon fixation in an arsenic and CO2-rich shallow hydrothermal ecosystem. Scientific Reports, 7(1), p.14708.
