@@ -1,4 +1,5 @@
 # Macrobiology project
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/f1c14b17-9458-4f29-b62e-0e890b2d406a)
 
 Hi all!  
 I'm Heidi and I will be leading the Macrobiology side of things. I am from the USA but have been living in Bergen for the past 5 years. 
