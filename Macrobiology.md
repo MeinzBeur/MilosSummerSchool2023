@@ -10,4 +10,6 @@ This is a cool program that allows for collaboration between users, different ty
 ## Preparation
 I need you to make a BIIGLE account ASAP as it sometimes takes a few hours for the BIIGLE team to approve the new user, and closer to the course I will make a project and put on some sample images so you can test out annotating on BIIGLE, although if you wish you could always upload some sample images yourself too. You can make a biigle acount [here](https://biigle.de/). Once you get your biigle account all set up and approved, you can join my biigle project for the course [here](https://biigle.de/project-invitations/610b7e9d-8354-4d13-8ecc-ff40a7f9ec7c).
 
-You can read up more on BIIGLE [here](https://www.frontiersin.org/articles/10.3389/fmars.2017.00083/full)  and [here](https://zenodo.org/record/7728927#.ZBSUlHbP1PY).
+You can read up more on BIIGLE [here](https://www.frontiersin.org/articles/10.3389/fmars.2017.00083/full)  and [here](https://zenodo.org/record/7728927#.ZBSUlHbP1PY).  
+
+Here are some relatively short tutorials (about 10 minutes or less) I just made on how to get started in BIIGLE and what you can do with BIIGLE. You can access it [here](https://drive.google.com/drive/folders/1_1ukhzHa8cF10gamlC-SR4uJ7wA8yajw?usp=sharing).
