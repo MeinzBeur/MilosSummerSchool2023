@@ -24,4 +24,4 @@ _Assessment of the impact of mining plume deposit on microcommunities_
 The main idea here is to investigate the changes triggered by a (mining?) plume deposit on the benthic communities. To do so, we will throw a layer of sulfide and sand on top of the sediments. The change in microbiology communities can be then analysed over time. 
 We will delimit an area to study, recover it with some extra sediments, take some cores over the next days, and monitor the changes in microbial communities quantitatively and qualitatively (through 16SrRNA sequecing). We will try this on different types of seafloor, and with both sand and sulfuric minerals.
 
-For the theoretical aspect, we will teach you about hydrothermal systems and its microbial ecology, production of sequencing libraries, sequencing, and data analysis including the specificities of compositional data.
+For the theoretical aspect, we will teach you about hydrothermal systems and their microbial ecology, production of sequencing libraries, sequencing, and data analysis including the specificities of compositional data.
