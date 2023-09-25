@@ -23,6 +23,6 @@ Here is a provisional time plan:
 Go to the following links to get more info:  
 - [Microbiology](Microbiology.md)
 - [Macrobiology](Macrobiology.md)
-- Geophysics
+- [Geophysics](Geophysics.md)
 - [Geochemistry](Geochemistry.md)
 
