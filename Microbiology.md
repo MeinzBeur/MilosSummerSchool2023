@@ -9,7 +9,7 @@ Welcome Mia, Susann and Jack to the microbiology projects. You teachers will be 
 ## Preparations
 There is a little bit of work to do before we get to Milos. Mainly some lecture:
 - Read the this [article](https://www.frontiersin.org/articles/10.3389/fmicb.2022.1060168/full), it will give you an overview of the microbiology of milos. Feel free to look into the references within.
-- Another [article](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11403) about thei impact of mining on microbial communities.
+- Another [article](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11403) about the impact of deep sea mining on microbial communities.
 - In case this is a bit fusy for you, get back to the theory of sequencing 16S rRNA: DNA extraction, PCR amplification, sequencing, data analysis.
 - We will use a Nanopore MinION on the field, so it could be nice if you get aquainted with the technology too.
 
