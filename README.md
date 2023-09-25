@@ -10,10 +10,17 @@ In this course, we want to provide students with direct research experience at t
 </p>
 
 
-
-
 ## Introduction meeting
 The video of the online introduction meeting (15th of September 2023) can be found [here](https://filesender.sikt.no/?s=download&token=f5e083e4-a4c4-4ef7-bcd8-bad012ceb3dc). The link expires the 7th of October.
+
+## Things to bring with you for the course
+Here is a list of things you should remember to take with you. Feel free to share other things on the discord that I may have forgotten!
+- Diving equipment: Snorkel, mask, fins, wetsuit. A watch that can go in the water is very useful too.
+- Sun screen + sun glasses
+- Laptop
+- Some cash may be useful. Remember you will have to pay 175 euro as participation to the food costs on your arrival there.
+- A camera, ideally that can go under water!
+- Remember that we will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
 
 ## Freediving
 In order to retrieve samples and data, we will be freediving every day. The area studied will be less than 5 m deep, and while it is not needed to be able to go down (you can send your colleagues), it would still be more enjoyable to have some basics of freediving.  
