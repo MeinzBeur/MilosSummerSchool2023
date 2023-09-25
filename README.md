@@ -9,6 +9,11 @@ In this course, we want to provide students with direct research experience at t
   <i>Relation between the different research projects for the course</i>
 </p>
 
+Go to the following links to get more info:  
+- [Microbiology](Microbiology.md)
+- [Macrobiology](Macrobiology.md)
+- [Geophysics](Geophysics.md)
+- [Geochemistry](Geochemistry.md)
 
 ## Introduction meeting
 The video of the online introduction meeting (15th of September 2023) can be found [here](https://filesender.sikt.no/?s=download&token=f5e083e4-a4c4-4ef7-bcd8-bad012ceb3dc). The link expires the 7th of October.
@@ -32,11 +37,4 @@ REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 ## Timeplan
 Here is a provisional time plan:
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/697b8e00-0666-47d1-a002-cb6770de4c99)
-
-## Project work
-Go to the following links to get more info:  
-- [Microbiology](Microbiology.md)
-- [Macrobiology](Macrobiology.md)
-- [Geophysics](Geophysics.md)
-- [Geochemistry](Geochemistry.md)
 
