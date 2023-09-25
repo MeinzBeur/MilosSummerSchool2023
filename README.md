@@ -4,7 +4,7 @@ Official repository for the course on deep sea mining impact.
 
 ## Description of the course
 In this course, we want to provide students with direct research experience at the hydrothermal system of Milos (Greece). This hydrothermal system is a shallow analogue to deep sea vents, and an ideal place for students to be trained in systemic hydrothermal investigation. Students with background in marine geophysics, macrobiology, geomicrobiology and geochemistry will work together to achieve a global understanding of the system, allowing them to understand how minerals are formed and how to assess the potential ecological impact of exploiting these resources (see figure below). They will be involved with actively contested questions, empirical observation, cutting-edge technologies, and the sense of excitement that comes from working to answer important questions. By the end of this course, students will have learned the process leading to thorough and rigorous scientific investigation, including result presentation and discussion.  
-<p align="center">![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/35cf56a5-4590-48d0-a59f-8aa095133314)  </p>
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/35cf56a5-4590-48d0-a59f-8aa095133314)
 <p align="center">
   <i>Relation between the different research projects for the course</i>
 </p>
