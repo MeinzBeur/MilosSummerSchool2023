@@ -1,5 +1,8 @@
 # Geophysics project
 # Plume dynamics throughout Paleochori bay
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/373495f9-7ea1-4296-ac3f-6ef0edc3143c)
+Dancing bubble stream at Milos
+
 
 ## Introduction
 **Teacher:** Thibaut Barreyre
