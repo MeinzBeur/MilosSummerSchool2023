@@ -32,7 +32,7 @@ Note
 
 ## Project description
 
-Our project is articulated around three main pillars of the scientific method – 
+Our project is articulated around three main pillars of the scientific method:
 
 1. Observing
 Objective: Investigate current variability, including system's natural “modes”, Variabilities across space and time.
