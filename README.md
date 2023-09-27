@@ -26,6 +26,7 @@ Here is a list of things you should remember to take with you. Feel free to shar
 - Laptop
 - Some cash may be useful. Remember you will have to pay 175 euro as participation to the food costs on your arrival there.
 - A camera, ideally that can go under water!
+- Earplugs... remember that you are sharing your room!
 - Remember that we will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
 
 ## Freediving
