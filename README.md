@@ -27,7 +27,7 @@ Here is a list of things you should remember to take with you. Feel free to shar
 - Some cash may be useful. Remember you will have to pay 175 euro as participation to the food costs on your arrival there.
 - You do not really need it, but a camera is nice, ideally one that can go under water!
 - Earplugs... remember that you are sharing your room!
-- Remember that we will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
+- We will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
 
 ## Freediving
 In order to retrieve samples and data, we will be freediving every day. The area studied will be less than 5 m deep, and while it is not needed to be able to go down (you can send your colleagues), it would still be more enjoyable to have some basics of freediving.  
