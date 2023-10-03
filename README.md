@@ -33,7 +33,8 @@ Here is a list of things you should remember to take with you. Feel free to shar
 In order to retrieve samples and data, we will be freediving every day. The area studied will be less than 5 m deep, and while it is not needed to be able to go down (you can send your colleagues), it would still be more enjoyable to have some basics of freediving.  
 The main problem one will face when going down to 5 m is equalisation. Ideally you would like to learn to use Frenzel equalisation, which you can by looking at this [video](https://www.youtube.com/watch?v=yxdEvyrKatc), or [this one](https://www.youtube.com/watch?v=Mo07gZR741M). There are also many more tutorials on the net. If you can't do it, no worries, we will work on it on Milos.  
 The second important thing is to try to stay longer under water. For this, it is important to learn to breath properly using your diaphragm. See this [video](https://www.youtube.com/watch?v=ADdqYzcBeLw&start=934). As well, you can learn to better tolerate the high amount of CO2 in your body. To do so, lie on your couch/bed, and after relaxing and taking a nice last big breath in, hold your breath until the first contraction comes. Take one breath, and start again. Repeat 8 times. You can also do the same thing while walking, but be a bit more tolerant: take maybe 5 breaths between each breathold. Don't walk too fast, and try to relax as much as possible.  
-  
+
+Freediving is a safe activity when done following some rules, but can also go very wrong otherwise. We have written a [risk assessment](RiskAssessment.md) that everyone should familiarize themselves with.  
 REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 
 ## Timeplan
