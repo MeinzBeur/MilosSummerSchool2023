@@ -16,9 +16,9 @@ Milos is a warm place, and everyone will be remembered to properly rehydrate the
 
 3. Safety divers
 Three members of the teaching team are certified divers educated in response to emergencies:
- - Sven Le Moine Bauer is finishing his certification as CMAS apnea instructor.
- - Othonas Vlassopoulos is an ANDI certified scubadiving instructor.
- - Susanne Bauer is a scubadiving officer (level-5) in France which allows her to implement security measures for diving events. She is also a vessel captain for the French sea rescue organisation (SNSM). 
+  - Sven Le Moine Bauer is finishing his certification as CMAS apnea instructor.
+  - Othonas Vlassopoulos is an ANDI certified scubadiving instructor.
+  - Susanne Bauer is a scubadiving officer (level-5) in France which allows her to implement security measures for diving events. She is also a vessel captain for the French sea rescue organisation (SNSM). 
 
 4. Equalization issues
 Equalization issues is the main cause for pain/problems while freediving. In general, the ear pain due to pressure will simply prevent the diver to go deeper, without harming him/her. Students from UiB have received training in basic freediving skills at AdO Arena prior to the course, and known not to push if pain is present.
