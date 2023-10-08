@@ -19,6 +19,43 @@ Go to the following links to get more info:
 ## Introduction meeting
 The video of the online introduction meeting (15th of September 2023) can be found [here](https://filesender.sikt.no/?s=download&token=f5e083e4-a4c4-4ef7-bcd8-bad012ceb3dc). The link expires the 7th of October.
 
+## Organisation
+_Flights_
+These are the flights booked for the students and employees from UiB. By now you should have received by sms your flight information. Remember that you have to organise by yourself the transport to and from the airport. 
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/562bf32a-24cb-4e3c-b4e9-ae9172dacc61)
+
+_Hotels_
+On Friday 13th and Tuesday 24th, we will all sleep in Athens. We cover the cost for everyone, including non-UiB students.  
+The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you arrive in Athens. Being responsible does not mean much, I just had to give a name for each room.
+- On the 13th, we will sleep in 3 different hostels that are in the same corner (see stars on the map below).
+  - Male students sleep at Sparti:
+    - Room 1: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
+    - Room 2: Liem Østrådt-Jennings (responsible), Ole Bratshaug, Jack Maley, Eirik Siira
+  - Female students sleep at Ionion:
+    - Room 1: Amalie Johannessen (responsible), Brenda Vasquez, Anna Sørensen, Susann Ruediger
+    - Room 2: Stine Grindheim (responsible), Jule Krohn, Joely Maak
+  - Teachers sleep at Electra:
+    - Room 1: Sven Le Moine Bauer (responsible), Steffen Jørgensen, Bjarte Hannisdal
+    - Room 2: Susanne Bauer (responsible), Heidi Meyer 
+- On the 24th, everyone sleeps at Ionion:
+    - Room 1: Amalie Johannessen (responsible), Brenda Vasquez, Anna Sørensen, Susann Ruediger
+    - Room 2: Liem Østrådt-Jennings (responsible), Ole Bratshaug, Jack Maley, Eirik Siira
+    - Room 3: Stine Grindheim (responsible), Jule Krohn, Joely Maak
+    - Room 4: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
+    - Room 5: Steffen Jørgensen (responsible), Bjarte Hannisdal
+    - Room 6: Heidi Meyer (responsible)
+
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/c243be01-b1a4-4b7b-a964-ca4f04d9e3a5)
+
+_Transport to Milos and back_
+All students (and most teachers) will take the boat from Piraeus the saturday 14th at 07:40. We arrive at Milos at 11:00. There we will have cars and drive everyone to Paleochori.  
+For the way back, most students (except Areti), and Bjarte/Steffe/Heidi will take the boat on tuesday 24th at 16h55. Arrival at Pireaus at 20h15, and night at the Ionion hostel.
+
+_Costs_
+
+ +organise belt stuff==
+hotel + risikovurdering + ==guest speakers== 
+
 ## Things to bring with you for the course
 Here is a list of things you should remember to take with you. Feel free to share other things on the discord that I may have forgotten!
 - Diving equipment: Snorkel, mask, fins, wetsuit. A watch that can go in the water is very useful too.
