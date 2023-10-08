@@ -52,7 +52,7 @@ All students (and most teachers) will take the boat from Piraeus the saturday 14
 For the way back, most students (except Areti), and Bjarte/Steffe/Heidi will take the boat on tuesday 24th at 16h55. Arrival at Pireaus at 20h15, and night at the Ionion hostel.
 
 _Costs_  
-- The costs for the hotel in Athens the 13th and 24th are covered by the project for everyone.
+The costs for the hotel in Athens the 13th and 24th are covered by the project for everyone.
 - Each UiB student and the teachers have to pay pay 2000 NOK or 180 EURO to Sven Le Moine Bauer at the start of the course (on the boat to Milos). This is to participate for the food costs. The payment can be made in cash (in EURO), or through vipps to 98187251.
 - Each non UiB student should pay for the food participation (180 EURO), the boat to Milos and back (150 EURO), and the hotel (350 EURO). Please pay in cash to Sven Le Moine Bauer on the boat to Milos.
 
