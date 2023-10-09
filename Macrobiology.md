@@ -45,7 +45,7 @@ Possible Survey Ideas (in yellow)
 
 
 <p align="center">
-  ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816)
+  <img src="https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816" />
   <i>Survey line with 10 x 40m long transects over varying substrate types (e.g., microbial maps, the darker spots (brine pools?), rocky outcrops
 </i>
 </p>
