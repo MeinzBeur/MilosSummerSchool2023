@@ -63,9 +63,11 @@ The costs for the hotel in Athens the 13th and 24th are covered by the project f
 Note that the rest of the food costs (around 50% of the costs) will be covered by the project.
 
 _Food_  
-For breakfast, we will provide some food that we bought at the supermarket: Bread, marmelade, muesli, milk, juice,...  
-For lunch, we will get some sandwiches from the restaurant (they have been notified for allergies).  
-For dinner, we will eat at the restaurant Pelago, by the beach. The food there will be paid by the project directly, but you pay for your drinks.  
+In Athens, you are organising your dinner yourselves.  
+On Milos:
+- For breakfast, we will provide some food that we bought at the supermarket: Bread, marmelade, muesli, milk, juice,...  
+- For lunch, we will get some sandwiches from the restaurant (they have been notified for allergies).  
+- For dinner, we will eat at the restaurant Pelago, by the beach. The food there will be paid by the project directly, but you pay for your drinks.  
 
 
 ## Things to bring with you for the course
