@@ -41,7 +41,7 @@ _Itinerary_
   - Species list with respective image catalogue
   - Uploaded reference images to SmartarID 
 Possible Survey Ideas (in yellow)
-    • When planning surveys with BlueROV, it is important to have reference points throughout the videos as there are no
+    • When planning surveys with BlueROV, it is important to have reference points throughout the videos as there are no GPS coordinates.
 
 
 <p align="center">
