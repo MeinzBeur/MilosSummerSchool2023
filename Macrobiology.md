@@ -49,9 +49,14 @@ Possible Survey Ideas (in yellow)
 </i>
 </p>
 
-5 x ~200 m long transect parallel to shoreline and covers multiple microbial mats
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/a9ea43d0-fe09-4555-9c1e-7b932838f296)
+<p align="center">
+  <i>5 x ~200 m long transect parallel to shoreline and covers multiple microbial mats
+</i>
+</p>
 
-5 x ~150 m transect perpendicular to shoreline that covers multiple mats and substrate types
-
-
-
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/1331469f-a83b-4eda-a326-1f47d842eb5f)
+<p align="center">
+  <i>5 x ~150 m transect perpendicular to shoreline that covers multiple mats and substrate types
+</i>
+</p>
