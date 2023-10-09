@@ -26,7 +26,7 @@ These are the flights booked for the students and employees from UiB. By now you
 
 _Hotels_  
 On Friday 13th and Tuesday 24th, we will all sleep in Athens. We cover the cost for everyone, including non-UiB students.  
-The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you arrive in Athens. Being responsible does not mean much, I just had to give a name for each room.
+The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you arrive in Athens. Being responsible (see below) does not mean much, I just had to give a name for each room.
 - On the 13th, we will sleep in 3 different hostels that are in the same corner (see stars on the map below).
   - Male students sleep at Sparti:
     - Room 1: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
