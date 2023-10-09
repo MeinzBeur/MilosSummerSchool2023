@@ -96,7 +96,7 @@ Here is a provisional time plan:
 
 The external speakers will be:
 External speakers:
-- Anette Tvedt, CEO of adepth: time to be announced.
+- Anette Tvedt, CEO of adepth: 18:00 the 16th
 - Bobby jo Dobush, the Ocean Foundation:  19:15 the 17th
 - Catherine Blanchard, Utrecht University: 19:00 the 19th
 - Pedro Ribeiro, University of Bergen: 18:00 the 21st
