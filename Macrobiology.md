@@ -39,11 +39,13 @@ _Itinerary_
   - Day 7-8: Data analysis
 - Outputs
   - Species list with respective image catalogue
-  - Uploaded reference images to SmartarID 
-Possible Survey Ideas (in yellow)
-    • When planning surveys with BlueROV, it is important to have reference points throughout the videos as there are no GPS coordinates.
+  - Uploaded reference images to SmartarID  
+
+_Possible Survey Ideas (in yellow)_
+![MilosROVPlan](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/e98a91be-7dd1-4228-847b-8cbd1511aefd)
 
 
+When planning surveys with BlueROV, it is important to have reference points throughout the videos as there are no GPS coordinates.  
 <p align="center">
   <img src="https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816" />
   
