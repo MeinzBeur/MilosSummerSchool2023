@@ -44,8 +44,12 @@ The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you
     - Room 4: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
     - Room 5: Steffen Jørgensen (responsible), Bjarte Hannisdal
     - Room 6: Heidi Meyer (responsible)
+  - For the hotel on Milos, each of us will share the room with someone else. I had expected to have two different beds in each room, but sadly this is not the case, and I got to know last week that we will actually be sleeping in double beds. The rooms are as follows: Amalie J. and Brenda V., Liem E. and Kristian F., Anna S. and Stine G., Areti B. and Susann R., Jule K. and Joely M., Ole J. and Jack M., Eirik S. and Eirik V., Ole B. (alone), Steffen J. and Bjarte H., Sven LMB and Thibaut B., Heidi M. and Eirini A., Susanne B. and Paraskevi N., Stephanos K. and Othonas V.
 
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/c243be01-b1a4-4b7b-a964-ca4f04d9e3a5)
+<p align="center">
+  <i>Map of the hotels in Piraeus</i>
+</p>
 
 _Transport to Milos and back_  
 All students (and most teachers) will take the boat from Piraeus the saturday 14th at 07:40. We arrive at Milos at 11:00. There we will have cars and drive everyone to Paleochori.  
@@ -59,18 +63,24 @@ The costs for the hotel in Athens the 13th and 24th are covered by the project f
 Note that the rest of the food costs (around 50% of the costs) will be covered by the project.
 
 _Food_
+For breakfast, we will provide some food that we bought at the supermarket: Bread, marmelade, muesli, milk, juice,...  
+For lunch, we will get some sandwiches from the restaurant (they have been notified for allergies).
+For dinner, we will eat at the restaurant Pelago, by the beach. The food there will be paid by the project directly, but you pay for your drinks.
+
 
 ## Things to bring with you for the course
 Here is a list of things you should remember to take with you. Feel free to share other things on the discord that I may have forgotten!
-- Diving equipment: Snorkel, mask, fins, wetsuit. A watch that can go in the water is very useful too.
-- Sun screen + sun glasses
-- Laptop
+- Snorkeling equipment: Snorkel, mask, fins, wetsuit. A watch that can go in the water is very useful too.
+- Sun screen + sun glasses.
+- Laptop.
 - Some cash may be useful. Remember you will have to pay 175 euro as participation to the food costs on your arrival there.
 - You do not really need it, but a camera is nice, ideally one that can go under water!
 - Earplugs... remember that you are sharing your room!
 - We will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
 
 ## Freediving
+Following some Norwegian legislation, students and employees hired in Norway won't be allowed to freedive. The following section is therefore only relevant to the other members of the course.
+
 In order to retrieve samples and data, we will be freediving every day. The area studied will be less than 5 m deep, and while it is not needed to be able to go down (you can send your colleagues), it would still be more enjoyable to have some basics of freediving.  
 The main problem one will face when going down to 5 m is equalisation. Ideally you would like to learn to use Frenzel equalisation, which you can by looking at this [video](https://www.youtube.com/watch?v=yxdEvyrKatc), or [this one](https://www.youtube.com/watch?v=Mo07gZR741M). There are also many more tutorials on the net. If you can't do it, no worries, we will work on it on Milos.  
 The second important thing is to try to stay longer under water. For this, it is important to learn to breath properly using your diaphragm. See this [video](https://www.youtube.com/watch?v=ADdqYzcBeLw&start=934). As well, you can learn to better tolerate the high amount of CO2 in your body. To do so, lie on your couch/bed, and after relaxing and taking a nice last big breath in, hold your breath until the first contraction comes. Take one breath, and start again. Repeat 8 times. You can also do the same thing while walking, but be a bit more tolerant: take maybe 5 breaths between each breathold. Don't walk too fast, and try to relax as much as possible.  
@@ -79,8 +89,12 @@ Freediving is a safe activity when done following some rules, but can also go ve
 REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 
 ## Timeplan
- ==guest speakers== 
-
 Here is a provisional time plan:
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/697b8e00-0666-47d1-a002-cb6770de4c99)
 
+The external speakers will be:
+External speakers:
+- Anette Tvedt, CEO of adepth: time to be announced.
+- Bobby jo Dobush, the Ocean Foundation:  19:15 the 17th
+- Catherine Blanchard, Utrecht University: 19:00 the 19th
+- Pedro Ribeiro, University of Bergen: 18:00 the 21st
