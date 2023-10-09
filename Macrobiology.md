@@ -43,8 +43,9 @@ _Itinerary_
 Possible Survey Ideas (in yellow)
     • When planning surveys with BlueROV, it is important to have reference points throughout the videos as there are no
 
-![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816)
+
 <p align="center">
+  ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816)
   <i>Survey line with 10 x 40m long transects over varying substrate types (e.g., microbial maps, the darker spots (brine pools?), rocky outcrops
 </i>
 </p>
