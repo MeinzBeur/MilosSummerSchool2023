@@ -48,19 +48,19 @@ Possible Survey Ideas (in yellow)
   <img src="https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/b27c0db5-d0f4-4479-a0d0-64cd01d84816" />
   
   <i>Survey line with 10 x 40m long transects over varying substrate types (e.g., microbial maps, the darker spots (brine pools?), rocky outcrops
-</i>
+  </i>
 </p>
 
 <p align="center">
   <img src="https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/a9ea43d0-fe09-4555-9c1e-7b932838f296" />
   
   <i>5 x ~200 m long transect parallel to shoreline and covers multiple microbial mats
-</i>
+  </i>
 </p>
 
 <p align="center">
    <img src="https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/1331469f-a83b-4eda-a326-1f47d842eb5f" />
   
   <i>5 x ~150 m transect perpendicular to shoreline that covers multiple mats and substrate types
-</i>
+  </i>
 </p>
