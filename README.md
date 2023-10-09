@@ -44,7 +44,7 @@ The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you
     - Room 4: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
     - Room 5: Steffen Jørgensen (responsible), Bjarte Hannisdal
     - Room 6: Heidi Meyer (responsible)
-  - For the hotel on Milos, each of us will share the room with someone else. I had expected to have two different beds in each room, but sadly this is not the case, and I got to know last week that we will actually be sleeping in double beds. The rooms are as follows: Amalie J. and Brenda V., Liem E. and Kristian F., Anna S. and Stine G., Areti B. and Susann R., Jule K. and Joely M., Ole J. and Jack M., Eirik S. and Eirik V., Ole B. (alone), Steffen J. and Bjarte H., Sven LMB and Thibaut B., Heidi M. and Eirini A., Susanne B. and Paraskevi N., Stephanos K. and Othonas V.
+- For the hotel on Milos, each of us will share the room with someone else. I had expected to have two different beds in each room, but sadly this is not the case, and I got to know last week that we will actually be sleeping in double beds. The rooms are as follows: Amalie J. and Brenda V., Liem E. and Kristian F., Anna S. and Stine G., Areti B. and Susann R., Jule K. and Joely M., Ole J. and Jack M., Eirik S. and Eirik V., Ole B. (alone), Steffen J. and Bjarte H., Sven LMB and Thibaut B., Heidi M. and Eirini A., Susanne B. and Paraskevi N., Stephanos K. and Othonas V.
 
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/c243be01-b1a4-4b7b-a964-ca4f04d9e3a5)
 <p align="center">
