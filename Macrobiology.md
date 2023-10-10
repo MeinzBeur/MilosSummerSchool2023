@@ -47,21 +47,21 @@ Things to think about:
 Course paper and a species list with respective image catalogue for later use.
 
 ## Recommended and useful free software
--	Annotation software (required): BIIGLE (https://biigle.de/) – entirely online, no download needed, just need to have an account and be in the MILOS 
-  -	As a back-up, we can use Paparra(zz)i in case there are issues with BIIGLE https://papara-zz-i.github.io/ 
--	Photomosaic generator: Hugin Panorama Stitcher (https://hugin.sourceforge.io/download/) – note this generates control points over overlapping images and does not need georeferencing information
--	Photogrametry software: Meshroom/AliceVision (https://alicevision.org/#meshroom) – note this works best with a NVIDIA CUDA-enabled GPU
+-	Annotation software (required): [BIIGLE](https://biigle.de/) – entirely online, no download needed, just need to have an account and be in the MILOS 
+  -	As a back-up, we can use [Paparra(zz)i](https://papara-zz-i.github.io/) in case there are issues with BIIGLE  
+-	Photomosaic generator: [Hugin Panorama Stitcher](https://hugin.sourceforge.io/download/) – note this generates control points over overlapping images and does not need georeferencing information.
+-	Photogrametry software: [Meshroom/AliceVision](https://alicevision.org/#meshroom) – note this works best with a NVIDIA CUDA-enabled GPU
 -	Batch image editor: RawTherapee 
 -	Extract images from videos based on specific timestamps: Python 3 with ffmpeg-python, openpyxl, and pandas installed. 
-  -	Otherwise you could always install ffmpeg following this instruction: https://phoenixnap.com/kb/ffmpeg-windows
+  -	Otherwise you could always install ffmpeg following this [instruction](https://phoenixnap.com/kb/ffmpeg-windows)
   -	Note – I have it installed on my computer and can do it if you cannot get python with the respective packages installed. 
 -	Statistics: R/Rstudio or whichever statistics software you have
--	GIS software: QGIS (https://www.qgis.org/en/site/) – useful for planning stations
+-	GIS software: [QGIS](https://www.qgis.org/en/site/) – useful for planning stations
 
 ## Relevant Literature
-https://we.tl/t-n1Nbx9qvBB Link expires in 7 days
+[Link](https://we.tl/t-n1Nbx9qvBB); expires in 7 days (the 16th)
 
-#Proposed ROV Plan - Subject to Change
+## Proposed ROV Plan - Subject to Change
 - Fine-scale survey with two overlapping transects with 10 x ~40 m long lines to examine the fine-scale spatial and community patterns of a venting area with different substrate types.  
 - Broad-scale survey with two semi-overlapping transects with 5 x 175 (grey)/125 (black) m long lines to examine the broad scale community patterns with different substrate types and distances from the vents.  
 NB: When planning surveys with BlueROV, it is important to have reference points throughout the videos as there isn’t a gps on the ROV
