@@ -15,31 +15,56 @@ You can read up more on BIIGLE [here](https://www.frontiersin.org/articles/10.33
 
 Here are some relatively short tutorials (about 10 minutes or less) I just made on how to get started in BIIGLE and what you can do with BIIGLE. You can access it [here](https://drive.google.com/drive/folders/1_1ukhzHa8cF10gamlC-SR4uJ7wA8yajw?usp=sharing).
 
-## Project description
-_Objectives_
-- Map the communities around the shallow water vent fields around Milos.
-  - Question: How does the megafaunal community change with proximity to the vents?
-  - Things to think about:
-    - What are the dominant taxa 0 m from the vents, 10 m from the vents, 25 m from the vents, 50 m from the vents?
-    - How does the substrates influence the community structure?
-    - Is there a vast difference in communities between active and inactive areas?
-   
-   
-_Itinerary_
-- Day 1: Overview on methodology and training in BIIGLE
-  - What is BIIGLE
-  - What is image and video analysis
-  - Video vs Image annotation
-  - Photomosaicing
-  - OTUs
-  - What to think about when conducting underwater surveys for quantitative analysis
-  - Introduction to SmartarID
-- Day 2-3: Data collection with ROV, prepping dataset for BIIGLE, making labels
-  - Day 4-6: Annotation of visual data
-  - Day 7-8: Data analysis
-- Outputs
-  - Species list with respective image catalogue
-  - Uploaded reference images to SmartarID  
+## Course Details
+The macro-ecology side of the course is going to be a collaborative process where you will work together throughout the entire process from the survey design, data collection, annotation, and write-up stage. While I have given a general overview of the project and the respective methods, proposed an overarching question and things to consider, and designed the prospective ROV transects, the finer details will be developed by you, the students, of the macro course. 
+
+## Project Objectives
+Objective: Map the community composition of a shallow water vent field off the coast of Milos, Greece
+Question: How does the megafaunal composition and community structure change with proximity to the venting regions?
+Things to think about:
+•	How does it change 0 m from the vents, 10 m from the vents, 25 m from the vents, 50 m from the vents, etc?
+•	How does the substrates influence the community structure?
+•	Is there a vast difference in communities and species composition between active and inactive areas?
+•	What are the dominant taxa? Do they only occur at the active sites (specialists) or are they common throughout the entire sample area (generalists)? 
+•	Any notable interactions or patterns? 
+  o	Interspecific interactions
+  o	Intraspecific interactions
+  o Interactions with their environment
+  o	Specific spatial patterns
+
+## Preliminary Itinerary
+•	16 October: Overview on methodology, training in BIIGLE, finalization of stations
+  o	What is BIIGLE?
+  o	What is image and video analysis, and what should we use?
+  o	Benefits of photomosaicing?
+  o	OTUs and Introduction to SmartarID
+  o	What to think about when conducting underwater surveys for quantitative analysis
+•	17 – 18 October: Data collection with ROV, prepping dataset for BIIGLE, making labels, begin annotation
+•	19 – 20 October: Annotation of visual data, 
+•	21 – 23 October: LARGO Evaluation, data analysis, and write up
+
+## Outputs
+Course paper and a species list with respective image catalogue for later use
+
+## Recommended and useful free software
+•	Annotation software (required): BIIGLE (https://biigle.de/) – entirely online, no download needed, just need to have an account and be in the MILOS 
+  o	As a back-up, we can use Paparra(zz)i in case there are issues with BIIGLE https://papara-zz-i.github.io/ 
+•	Photomosaic generator: Hugin Panorama Stitcher (https://hugin.sourceforge.io/download/) – note this generates control points over overlapping images and does not need georeferencing information
+•	Photogrametry software: Meshroom/AliceVision (https://alicevision.org/#meshroom) – note this works best with a NVIDIA CUDA-enabled GPU
+•	Batch image editor: RawTherapee 
+•	Extract images from videos based on specific timestamps: Python 3 with ffmpeg-python, openpyxl, and pandas installed. 
+  o	Otherwise you could always install ffmpeg following this instruction: https://phoenixnap.com/kb/ffmpeg-windows
+  o	Note – I have it installed on my computer and can do it if you cannot get python with the respective packages installed. 
+•	Statistics: R/Rstudio or whichever statistics software you have
+•	GIS software: QGIS (https://www.qgis.org/en/site/) – useful for planning stations
+
+## Relevant Literature
+https://we.tl/t-n1Nbx9qvBB Link expires in 7 days
+
+#Proposed ROV Plan - Subject to Change
+Fine-scale survey with two overlapping transects with 10 x ~40 m long lines to examine the fine-scale spatial and community patterns of a venting area with different substrate types
+Broad-scale survey with two semi-overlapping transects with 5 x 175 (grey)/125 (black) m long lines to examine the broad scale community patterns with different substrate types and distances from the vents
+NB: When planning surveys with BlueROV, it is important to have reference points throughout the videos as there isn’t a gps on the ROV
 
 _Possible Survey Ideas (in yellow)_
 ![MilosROVPlan](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/e98a91be-7dd1-4228-847b-8cbd1511aefd)
