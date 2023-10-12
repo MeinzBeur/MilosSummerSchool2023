@@ -20,6 +20,8 @@ Go to the following links to get more info:
 The video of the online introduction meeting (15th of September 2023) can be found [here](https://filesender.sikt.no/?s=download&token=f5e083e4-a4c4-4ef7-bcd8-bad012ceb3dc). The link expires the 7th of October.
 
 ## Organisation
+If needed, you can reach me on my phone: +47 98187251.
+
 _Flights_  
 These are the flights booked for the students and employees from UiB. By now you should have received by sms your flight information. Remember that you have to organise by yourself the transport to and from the airport. 
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/562bf32a-24cb-4e3c-b4e9-ae9172dacc61)
@@ -28,16 +30,16 @@ _Hotels_
 On Friday 13th and Tuesday 24th, we will all sleep in Athens. We cover the cost for everyone, including non-UiB students.  
 The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you arrive in Athens. Being responsible (see below) does not mean much, I just had to give a name for each room.
 - On the 13th, we will sleep in 3 different hostels that are in the same corner (see stars on the map below).
-  - Male students sleep at Sparti:
+  - Male students sleep at Sparti (Kapodistriou 18, Pireas 185 31):
     - Room 1: Eirik Valdar (responsible), Ole Jøsok, Kristian Fjeld
     - Room 2: Liem Østrådt-Jennings (responsible), Ole Bratshaug, Jack Maley, Eirik Siira
-  - Female students sleep at Ionion:
+  - Female students sleep at Ionion (Kapodistriou 10, Pireas 185 31):
     - Room 1: Amalie Johannessen (responsible), Brenda Vasquez, Anna Sørensen, Susann Ruediger
     - Room 2: Stine Grindheim (responsible), Jule Krohn, Joely Maak
-  - Teachers sleep at Electra:
+  - Teachers sleep at Electra (Navarinou 12, Pireas 185 31):
     - Room 1: Sven Le Moine Bauer (responsible), Steffen Jørgensen, Bjarte Hannisdal
     - Room 2: Susanne Bauer (responsible), Heidi Meyer 
-- On the 24th, everyone sleeps at Ionion:
+- On the 24th, everyone sleeps at Ionion (Kapodistriou 10, Pireas 185 31):
     - Room 1: Amalie Johannessen (responsible), Brenda Vasquez, Anna Sørensen, Susann Ruediger
     - Room 2: Liem Østrådt-Jennings (responsible), Ole Bratshaug, Jack Maley, Eirik Siira
     - Room 3: Stine Grindheim (responsible), Jule Krohn, Joely Maak
