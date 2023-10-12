@@ -26,6 +26,8 @@ _Flights_
 These are the flights booked for the students and employees from UiB. By now you should have received by sms your flight information. Remember that you have to organise by yourself the transport to and from the airport. 
 ![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/562bf32a-24cb-4e3c-b4e9-ae9172dacc61)
 
+When ariving in Athens, take the metro line M3, the blue one,direction Dimotiko Theatro and disembark at Piraeus.
+
 _Hotels_  
 On Friday 13th and Tuesday 24th, we will all sleep in Athens. We cover the cost for everyone, including non-UiB students.  
 The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you arrive in Athens. Being responsible (see below) does not mean much, I just had to give a name for each room.
@@ -81,10 +83,6 @@ Here is a list of things you should remember to take with you. Feel free to shar
 - You do not really need it, but a camera is nice, ideally one that can go under water!
 - Earplugs... remember that you are sharing your room!
 - We will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
-
-## Just for the pleasure...  
-![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/c32ed1d1-7544-4f02-b54a-5e80fcc21992)
-
 
 ## Freediving
 Following some Norwegian legislation, students and employees hired in Norway won't be allowed to freedive. The following section is therefore only relevant to the other members of the course.
