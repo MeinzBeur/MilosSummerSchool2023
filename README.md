@@ -73,12 +73,16 @@ On Milos:
 ## Things to bring with you for the course
 Here is a list of things you should remember to take with you. Feel free to share other things on the discord that I may have forgotten!
 - Snorkeling equipment: Snorkel, mask, fins, wetsuit. A watch that can go in the water is very useful too.
-- Sun screen + sun glasses.
+- Sun screen + sun glasses + a hat.
 - Laptop.
 - Some cash may be useful. Remember you will have to pay 175 euro as participation to the food costs on your arrival there.
 - You do not really need it, but a camera is nice, ideally one that can go under water!
 - Earplugs... remember that you are sharing your room!
 - We will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
+
+## Just for the pleasure...  
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/c32ed1d1-7544-4f02-b54a-5e80fcc21992)
+
 
 ## Freediving
 Following some Norwegian legislation, students and employees hired in Norway won't be allowed to freedive. The following section is therefore only relevant to the other members of the course.
