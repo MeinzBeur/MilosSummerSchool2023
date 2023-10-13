@@ -56,7 +56,7 @@ The booking is at my name (Sven Le Moine Bauer). You can go there as soon as you
 </p>
 
 _Transport to Milos and back_  
-All students (and most teachers) will take the boat from Piraeus the saturday 14th at 07:40. We arrive at Milos at 11:00. There we will have cars and drive everyone to Paleochori.  
+All students (and most teachers) will take the boat from Piraeus the saturday 14th at 09:00. We arrive at Milos at 11:00. There we will have cars and drive everyone to Paleochori.  
 For the way back, most students (except Areti), and Bjarte/Steffe/Heidi will take the boat on tuesday 24th at 16h55. Arrival at Pireaus at 20h15, and night at the Ionion hostel.
 
 _Costs_  
