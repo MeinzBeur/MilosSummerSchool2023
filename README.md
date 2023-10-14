@@ -96,10 +96,10 @@ REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 
 ## Timeplan
 Here is a provisional time plan:
-![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/697b8e00-0666-47d1-a002-cb6770de4c99)
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/697ffb6b-5d38-482c-ae80-bedfa0fd51ee)
 
-The external speakers will be:
-External speakers:
+
+The external speakers will be:  
 - Anette Tvedt, CEO of adepth: 18:00 the 16th
 - Bobby jo Dobush, the Ocean Foundation:  19:15 the 17th
 - Catherine Blanchard, Utrecht University: 19:00 the 19th
