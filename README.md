@@ -84,6 +84,28 @@ Here is a list of things you should remember to take with you. Feel free to shar
 - Earplugs... remember that you are sharing your room!
 - We will be far from any supermarket, and the supermarket on Milos looks like a Bunnpris on Sunday. So if you have your little guilty pleasure snack that you cannot survive without more than a couple of days I advise you to bring it from home!
 
+## Report
+The report that you will have to write should be similar to a cruise report. Such reports are written after research cruises and compile the work that has been done on board. Only one report is written for a given cruise, but everyone participate to its realisation. You will find below the template for the report, and here are some general rules/advice:
+- Only one report is going to be submitted, where each group is responsible for their own sections. It is up to you what approach you want to use. A googledoc or such online based text editor is maybe the best. 
+- For the general parts at the beginning of the report, you need to organise yourselves who writes what.
+- There is no limitation on how long your section can be, but you should assess what you believe is important or not to be put in the report.
+- If you feel that you have bigger datasets that should be part of the report, you can put them in the appendix.
+- The final report has to be sent to Sven (sba003@uib.no) as a pdf before the 24th of November at midnight.
+
+**Template**
+- Title page
+- Outline
+- Participants + group picture
+- General description of the course
+- Location of the course with a general map of the bay with GPS points of the samples/data points.
+- Geochemistry: Description of the project, aims, methods used, problems faced and adaptation, results, discussion, conclusion, references.
+- Geophysics: Description of the project, aims, methods used, problems faced and adaptation, results, discussion, conclusion, references.
+- Macrobiology: Description of the project, aims, methods used, problems faced and adaptation, results, discussion, conclusion, references.
+- Microbiology: Description of the project, aims, methods used, problems faced and adaptation, results, discussion, conclusion, references.
+- Appendix (If needed).
+
+
+
 ## Freediving
 Following some Norwegian legislation, students and employees hired in Norway won't be allowed to freedive. The following section is therefore only relevant to the other members of the course.
 
