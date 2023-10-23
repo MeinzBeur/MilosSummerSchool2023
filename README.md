@@ -118,7 +118,7 @@ REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 
 ## Timeplan
 Here is a provisional time plan:
-![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/2d3fa215-9d6d-4fda-a8ab-107c9e2db8e0)
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/da8e1a13-060e-4c06-a77e-f1d4f6060765)
 
 
 The external speakers will be:  
