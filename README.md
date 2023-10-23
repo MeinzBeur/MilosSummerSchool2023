@@ -118,7 +118,8 @@ REMEMBER: NEVER TRAIN IN THE WATER ALONE!
 
 ## Timeplan
 Here is a provisional time plan:
-![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/95d1a08e-e476-4efc-b926-0fc29e4e5c1c)
+![image](https://github.com/MeinzBeur/MilosSummerSchool2023/assets/43003903/2d3fa215-9d6d-4fda-a8ab-107c9e2db8e0)
+
 
 The external speakers will be:  
 - Anette Tvedt, CEO of adepth: 18:00 the 16th
